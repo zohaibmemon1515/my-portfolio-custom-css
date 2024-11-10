@@ -46,19 +46,19 @@ export default function Navbar() {
             </Link>
           </li>
           <li>
-            <Link href="/AboutMe" className="navLink">
+            <Link href="/components/AboutMe" className="navLink">
               About Me
             </Link>
           </li>
 
           <li>
-            <Link href="/Skills" className="navLink">
+            <Link href="/components/Skills" className="navLink">
               Skills
             </Link>
           </li>
 
           <li>
-            <Link href="/Contact" className="navLink">
+            <Link href="/components/Contact" className="navLink">
               Contact
             </Link>
           </li>
